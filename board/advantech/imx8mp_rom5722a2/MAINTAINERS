@@ -1,0 +1,7 @@
+i.MX8MP ROM5722A2 BOARD
+M:	Fabio Estevm <festevam@gmail.com>
+M:	Peng Fan <peng.fan@nxp.com>
+S:	Maintained
+F:	board/freescale/imx8mp_rom5722a2/
+F:	include/configs/imx8mp_rom5722.h
+F:	configs/imx8mp_rom5722a2_6G_defconfig
